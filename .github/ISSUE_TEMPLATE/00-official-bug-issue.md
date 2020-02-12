@@ -1,7 +1,7 @@
 ---
 name: Bug Issue
 about: Use this template for reporting a bug or a performance issue.
-labels: 'documentation'
+labels: bug, documentation
 
 ---
 
